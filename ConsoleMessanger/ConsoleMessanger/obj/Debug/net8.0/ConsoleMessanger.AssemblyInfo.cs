@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ConsoleMessanger")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6ffb97348e4a77c4aff3e4550c4433604a7a0c9f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+13760e698f6fe01700ec7e22bee0a98ebf84a1da")]
 [assembly: System.Reflection.AssemblyProductAttribute("ConsoleMessanger")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ConsoleMessanger")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
