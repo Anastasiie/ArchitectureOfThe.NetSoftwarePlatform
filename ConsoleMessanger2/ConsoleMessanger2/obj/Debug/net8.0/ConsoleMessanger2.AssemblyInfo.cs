@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("ConsoleMessanger")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("ConsoleMessanger2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2c21c670baebac171c75028190d19541601223fa")]
-[assembly: System.Reflection.AssemblyProductAttribute("ConsoleMessanger")]
-[assembly: System.Reflection.AssemblyTitleAttribute("ConsoleMessanger")]
+[assembly: System.Reflection.AssemblyProductAttribute("ConsoleMessanger2")]
+[assembly: System.Reflection.AssemblyTitleAttribute("ConsoleMessanger2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Создано классом WriteCodeFragment MSBuild.

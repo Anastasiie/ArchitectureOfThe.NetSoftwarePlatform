@@ -1,0 +1,15 @@
+D:\! Навчання\after\4 курс 01.09.2024\Архітектура програмної платформи .Net\labs\ConsoleMessanger2\ConsoleMessanger2\bin\Debug\net8.0\ConsoleMessanger2.exe
+D:\! Навчання\after\4 курс 01.09.2024\Архітектура програмної платформи .Net\labs\ConsoleMessanger2\ConsoleMessanger2\bin\Debug\net8.0\ConsoleMessanger2.deps.json
+D:\! Навчання\after\4 курс 01.09.2024\Архітектура програмної платформи .Net\labs\ConsoleMessanger2\ConsoleMessanger2\bin\Debug\net8.0\ConsoleMessanger2.runtimeconfig.json
+D:\! Навчання\after\4 курс 01.09.2024\Архітектура програмної платформи .Net\labs\ConsoleMessanger2\ConsoleMessanger2\bin\Debug\net8.0\ConsoleMessanger2.dll
+D:\! Навчання\after\4 курс 01.09.2024\Архітектура програмної платформи .Net\labs\ConsoleMessanger2\ConsoleMessanger2\bin\Debug\net8.0\ConsoleMessanger2.pdb
+D:\! Навчання\after\4 курс 01.09.2024\Архітектура програмної платформи .Net\labs\ConsoleMessanger2\ConsoleMessanger2\obj\Debug\net8.0\ConsoleMessanger2.GeneratedMSBuildEditorConfig.editorconfig
+D:\! Навчання\after\4 курс 01.09.2024\Архітектура програмної платформи .Net\labs\ConsoleMessanger2\ConsoleMessanger2\obj\Debug\net8.0\ConsoleMessanger2.AssemblyInfoInputs.cache
+D:\! Навчання\after\4 курс 01.09.2024\Архітектура програмної платформи .Net\labs\ConsoleMessanger2\ConsoleMessanger2\obj\Debug\net8.0\ConsoleMessanger2.AssemblyInfo.cs
+D:\! Навчання\after\4 курс 01.09.2024\Архітектура програмної платформи .Net\labs\ConsoleMessanger2\ConsoleMessanger2\obj\Debug\net8.0\ConsoleMessanger2.csproj.CoreCompileInputs.cache
+D:\! Навчання\after\4 курс 01.09.2024\Архітектура програмної платформи .Net\labs\ConsoleMessanger2\ConsoleMessanger2\obj\Debug\net8.0\ConsoleMessanger2.sourcelink.json
+D:\! Навчання\after\4 курс 01.09.2024\Архітектура програмної платформи .Net\labs\ConsoleMessanger2\ConsoleMessanger2\obj\Debug\net8.0\ConsoleMessanger2.dll
+D:\! Навчання\after\4 курс 01.09.2024\Архітектура програмної платформи .Net\labs\ConsoleMessanger2\ConsoleMessanger2\obj\Debug\net8.0\refint\ConsoleMessanger2.dll
+D:\! Навчання\after\4 курс 01.09.2024\Архітектура програмної платформи .Net\labs\ConsoleMessanger2\ConsoleMessanger2\obj\Debug\net8.0\ConsoleMessanger2.pdb
+D:\! Навчання\after\4 курс 01.09.2024\Архітектура програмної платформи .Net\labs\ConsoleMessanger2\ConsoleMessanger2\obj\Debug\net8.0\ConsoleMessanger2.genruntimeconfig.cache
+D:\! Навчання\after\4 курс 01.09.2024\Архітектура програмної платформи .Net\labs\ConsoleMessanger2\ConsoleMessanger2\obj\Debug\net8.0\ref\ConsoleMessanger2.dll

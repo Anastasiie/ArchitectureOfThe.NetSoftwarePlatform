@@ -12,3 +12,4 @@ D:\! Навчання\after\4 курс 01.09.2024\Архітектура про�
 D:\! Навчання\after\4 курс 01.09.2024\Архітектура програмної платформи .Net\labs\ConsoleMessanger\ConsoleMessanger\obj\Debug\net8.0\ConsoleMessanger.pdb
 D:\! Навчання\after\4 курс 01.09.2024\Архітектура програмної платформи .Net\labs\ConsoleMessanger\ConsoleMessanger\obj\Debug\net8.0\ConsoleMessanger.genruntimeconfig.cache
 D:\! Навчання\after\4 курс 01.09.2024\Архітектура програмної платформи .Net\labs\ConsoleMessanger\ConsoleMessanger\obj\Debug\net8.0\ref\ConsoleMessanger.dll
+D:\! Навчання\after\4 курс 01.09.2024\Архітектура програмної платформи .Net\labs\ConsoleMessanger\ConsoleMessanger\obj\Debug\net8.0\ConsoleMessanger.sourcelink.json
